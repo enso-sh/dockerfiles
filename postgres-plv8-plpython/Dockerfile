@@ -1,4 +1,4 @@
-FROM postgres:11-alpine
+FROM postgres:10-alpine
 
 RUN set -eux; \
 	\
